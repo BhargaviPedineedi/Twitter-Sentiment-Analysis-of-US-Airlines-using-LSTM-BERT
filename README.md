@@ -3,12 +3,12 @@ Explore sentiment in U.S. airline tweets using Single Bidirectional LSTM, Stacke
 ## Table of Contents
 1. Data Preprocessing: Cleaning and preparing the dataset for analysis.
 2. LSTM Models: Implementing and evaluating LSTM models for sentiment analysis.
-    -Single-layer Unidirectional LSTM: : Implementation and results.
+    - Single-layer Unidirectional LSTM: : Implementation and results.
     - Single-layer Bidirectional LSTM:: Implementation and results.
-   - Stacked Unidirectional LSTM:: Implementation and results.
-   - Stacked Bidirectional LSTM: Implementation and results.
-3. Evaluation: Metrics and performance analysis.
-4. Attention Mechanism : Introduction and implementation of attention mechanism in LSTM.
+    - Stacked Unidirectional LSTM:: Implementation and results.
+    - Stacked Bidirectional LSTM: Implementation and results.
+4. Evaluation: Metrics and performance analysis.
+5. Attention Mechanism : Introduction and implementation of attention mechanism in LSTM.
 4. BERT Models: Utilizing BERT for sentiment analysis.
    -  Training BERT models.
    -  Optimizing BERT model performance.
